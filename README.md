@@ -2,6 +2,8 @@
 
 A responsive, high-end travel destination website built strictly using **pure HTML5 and CSS3** (no JavaScript dependencies or frameworks required).
 
+🌐 **Live Demo:** [https://balamanidharyella-afk.github.io/travel-destination-website/](https://balamanidharyella-afk.github.io/travel-destination-website/)
+
 ![Azura Travel Preview](https://images.unsplash.com/photo-1516483638261-f4dbaf036963?auto=format&fit=crop&w=1200&q=80)
 
 ---
@@ -66,7 +68,7 @@ Simply open `index.html` in any modern web browser:
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/travel-destination-website.git
+git clone https://github.com/balamanidharyella-afk/travel-destination-website.git
 
 # Open the website
 cd travel-destination-website
